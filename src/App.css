@@ -1,0 +1,12 @@
+.Intro {
+    background-image: url('./Components/antique-cafe-bg-01.jpg');
+}
+.Menu {
+    background-image: url('../public/img/antique-cafe-bg-02.jpg');
+}
+.Contact {
+    background-image: url('../public/img/antique-cafe-bg-03.jpg');
+}
+.About {
+    background-image: url('../public/img/antique-cafe-bg-04.jpg');
+}
